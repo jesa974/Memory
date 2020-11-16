@@ -1,0 +1,20 @@
+nb_img = 6
+random = 1
+nom = level3/theme3/image1.bmp
+id = 1
+nom = level3/theme3/image2.bmp
+id = 1
+nom = level3/theme3/image3.bmp
+id = 3
+nom = level3/theme3/image4.bmp
+id = 3
+nom = level3/theme3/image5.bmp
+id = 5
+nom = level3/theme3/image6.bmp
+id = 5
+(200,50)
+(200,250)
+(200,450)
+(800,50)
+(800,250)
+(800,450)

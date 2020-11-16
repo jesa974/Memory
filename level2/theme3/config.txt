@@ -1,0 +1,48 @@
+nb_img = 16
+random = 1
+nom = level2/theme3/image1.bmp
+id = 1
+nom = level2/theme3/image2.bmp
+id = 1
+nom = level2/theme3/image3.bmp
+id = 3
+nom = level2/theme3/image4.bmp
+id = 3
+nom = level2/theme3/image5.bmp
+id = 5
+nom = level2/theme3/image6.bmp
+id = 5
+nom = level2/theme3/image7.bmp
+id = 7
+nom = level2/theme3/image8.bmp
+id = 7
+nom = level2/theme3/image9.bmp
+id = 9
+nom = level2/theme3/image10.bmp
+id = 9
+nom = level2/theme3/image11.bmp
+id = 11
+nom = level2/theme3/image12.bmp
+id = 11
+nom = level2/theme3/image13.bmp
+id = 13
+nom = level2/theme3/image14.bmp
+id = 13
+nom = level2/theme3/image15.bmp
+id = 15
+nom = level2/theme3/image16.bmp
+id = 15
+(50,100)
+(180,100)
+(310,100)
+(570,100)
+(700,100)
+(830,100)
+(960,100)
+(50,300)
+(180,300)
+(310,300)
+(570,300)
+(700,300)
+(830,300)
+(960,300)
